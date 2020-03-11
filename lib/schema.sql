@@ -1,1 +1,4 @@
-CREATE TABLE 
+CREATE TABLE series (
+  id PRIMARY INTEGER KEY,
+  title TEXT
+)
